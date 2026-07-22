@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "NetworkSetPage",
+      "pageSourceFile": "src/main/ets/pages/NetworkPage.ets",
+      "buildFunction": "NavSubBuilder"
+    }
+  ]
+}
