@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/GrandParentPage",
+    "pages/AppStoragePage",
+    "pages/TestAppPage",
+    "pages/WatchParentPage",
+    "pages/WatchChildPage"
+  ]
+}
